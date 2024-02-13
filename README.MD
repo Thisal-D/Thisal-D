@@ -20,8 +20,8 @@ I'm Thisal ,  self-taught software developer.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Plastic&logo=visual-studio-code&logoColor=white)
 
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=Plastic&logo=markdown&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=Plastic&logo=stack-overflow&logoColor=white)
 
 ## 🌱 I’m currently learning
 - Java Script
