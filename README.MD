@@ -30,6 +30,6 @@ I'm Thisal ,  self-taught software developer.
 ## 📈 GitHub Stats
 ![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie)](https://github.com/Thisal-D/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=transparent)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 Feel free to explore my repositories and let's connect! 😊
