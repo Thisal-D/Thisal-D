@@ -34,6 +34,6 @@ I'm Thisal ,  self-taught software developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=dark&bg_color=050505&title_color=2fcced&border_color=101010&border_radius=20)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=light)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&border_radius=20&layout=pie&theme=light)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 Feel free to explore my repositories and let's connect! 😊
