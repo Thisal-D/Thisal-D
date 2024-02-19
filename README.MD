@@ -33,7 +33,7 @@ I'm Thisal ,  self-taught software developer.
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=transparent)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=dark)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=light)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
