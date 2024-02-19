@@ -28,6 +28,6 @@ I'm Thisal ,  self-taught software developer.
 - Python ML
 
 ## 📈 GitHub Stats
-[![Thisal D's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/Thisal-D)
+[![Thisal D's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&count_private=true&hide=contribs&theme=radical&title_color=00ff00&text_color=858585&icon_color=ffffff)](https://github.com/Thisal-D)
 
 Feel free to explore my repositories and let's connect! 😊
