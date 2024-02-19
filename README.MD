@@ -30,6 +30,8 @@ I'm Thisal ,  self-taught software developer.
 ## 📈 GitHub Stats
 [![Thisal D's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&count_private=true&hide=contribs&theme=radical&bg_color=101010&ring_color=707070&title_color=00ff00&text_color=858585&icon_color=ffffff)](https://github.com/Thisal-D)
 
+![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie)](https://github.com/Thisal-D/github-readme-stats)
 
 
