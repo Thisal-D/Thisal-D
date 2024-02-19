@@ -28,7 +28,7 @@ I'm Thisal ,  self-taught software developer.
 - Python ML
 
 ## 📈 GitHub Stats
-[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=dark&rank_icon=percentile&bg_color=050505&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=dark&rank_icon=percentile&bg_color=101010&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
