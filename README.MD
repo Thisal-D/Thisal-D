@@ -30,13 +30,11 @@ I'm Thisal ,  self-taught software developer.
 ## 📈 GitHub Stats
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=dark&rank_icon=percentile&bg_color=050505&border_color=101010&title_color=2fcced&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=dark&rank_icon=percentile&bg_color=050505&border_color=101010&title_color=4c71f2&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
-
 
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=dark&bg_color=050505&border_color=101010)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=dark&bg_color=050505&title_color=2fcced&border_color=101010)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&layout=pie&theme=light)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
