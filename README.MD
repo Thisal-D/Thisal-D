@@ -37,7 +37,7 @@ I'm Thisal ,  self-taught software developer.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=Flat&logo=stack-overflow&logoColor=white)
 
 ## 🌱 I’m currently learning
-- Java Script
+- Java Script - React
 - Python ML
 
 ## 📈 GitHub Stats
