@@ -2,15 +2,7 @@
 
 I'm Thisal ,  self-taught software developer.
 
-
-[![](https://visitcount.itsvg.in/api?id=Thisal-D&icon=1)](https://visitcount.itsvg.in)
-
-![](https://komarev.com/ghpvc/?username=Thisal-D&color=green)
-
-
 ## 🔧 Technologies & Tools
-
-
 
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="30px" height="30px">      <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="30px" height="30px">      <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30px" height="30px">
 
@@ -37,7 +29,6 @@ I'm Thisal ,  self-taught software developer.
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=Flat&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Flat&logo=visual-studio-code&logoColor=white)
-
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=Flat&logo=markdown&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=Flat&logo=stack-overflow&logoColor=white)
