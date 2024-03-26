@@ -2,6 +2,10 @@
 
 I'm Thisal ,  self-taught software developer.
 
+
+[![](https://visitcount.itsvg.in/api?id=Thisal-D&icon=1&color=4)](https://visitcount.itsvg.in)
+
+
 ## 🔧 Technologies & Tools
 
 
