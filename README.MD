@@ -42,20 +42,20 @@ I'm Thisal ,  self-taught software developer.
 
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=20)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/solidsman/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/solidsman/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
+s
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Thisal-D&theme=dark&hide_border=false)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Thisal-D&theme=dark&hide_border=false)](https://github.com/solidsman/github-readme-stats#gh-dark-mode-only)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Thisal-D&theme=light&hide_border=false)](https://github.com/solidsman/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Thisal-D&theme=light&hide_border=false)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 
 ### ✍️ Random Dev Quote
-[![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)](https://github.com/solidsman/github-readme-stats#gh-dark-mode-only)
+[![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)](https://github.com/solidsman/github-readme-stats#gh-light-mode-only)
+[![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 
 Feel free to explore my repositories and let's connect! 😊
