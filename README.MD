@@ -12,6 +12,7 @@
 ## 🌱 I’m currently learning
 - Java Script - React
 - Python ML
+- C++
 
 ## 📈 GitHub Stats
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_dark&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
