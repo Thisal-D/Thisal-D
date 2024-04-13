@@ -32,4 +32,4 @@
 [![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=github_light)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 
-**Feel free to explore my repositories and let's connect! 😊**
+#### Feel free to explore my repositories and let's connect! 😊
