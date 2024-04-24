@@ -19,7 +19,7 @@
 
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
-
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Thisal-D&theme=github_dark&hide_border=false)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Thisal-D&theme=github_light&hide_border=false)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
