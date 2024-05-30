@@ -25,12 +25,13 @@
 | [ctkchart](https://github.com/Thisal-D/ctkchart/) | Python library for creating live updating line charts in custom Tkinter GUIs. | <img alt="Stars" src="https://img.shields.io/github/stars/Thisal-D/ctkchart?style=flat-square&labelColor=black"/> | <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
 
 ### 📈 GitHub Stats
-[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&rank_icon=percentile&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&rank_icon=percentile&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8&border_color=30363d)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
 [![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_dark&include_all_commits=true&count_private=false&layout=compact&border_color=30363d)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_light&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 #### Feel free to explore my repositories and let's connect! 😊
