@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="https://github.com/Thisal-D">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe UI&size=30&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Thisal+Dilmith&height=40" alt="Typing SVG" /><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe UI&size=15&duration=2000&pause=100&multiline=true&width=500&height=80&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Self-taught+software+developer&height=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe UI&size=30&duration=3000&pause=100&multiline=true&width=500&height=80&lines=Thisal+Dilmith&height=40" alt="Typing SVG" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe UI&size=15&duration=3000&pause=100&multiline=true&width=500&height=80&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Self-taught+software+developer&height=30" alt="Typing SVG" />
 </a>
 <br/>
 
