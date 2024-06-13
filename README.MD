@@ -26,9 +26,9 @@
 
 ### 📈 GitHub Stats
 
-[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&rank_icon=percentile&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8&border_color=30363d)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8&border_color=30363d)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_light&rank_icon=percentile&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_light&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_dark&include_all_commits=true&count_private=false&layout=compact&border_color=30363d)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
