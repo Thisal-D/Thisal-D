@@ -34,11 +34,11 @@
 ### 🔗 Connect with Me
 
 
-Stack Overflow : <a href="https://stackoverflow.com/users/17652621/thisal" target="blank">
+<a href="https://stackoverflow.com/users/17652621/thisal" target="blank">
         <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
 </a>
-<br>
-LinkedIn : <a href="https://www.linkedin.com/in/thisal-dilmith-2b457b2a7" target="blank">
+
+<a href="https://www.linkedin.com/in/thisal-dilmith-2b457b2a7" target="blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
