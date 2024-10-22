@@ -1,4 +1,3 @@
-## Hello, World! 👋
 
 <p align="center">
 <a href="https://github.com/Thisal-D">
