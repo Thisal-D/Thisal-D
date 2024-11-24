@@ -38,4 +38,4 @@
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-### Feel free to explore my [repositories](https://github.com/Thisal-D?tab=repositories) and let's connect! 😊
+### Feel free to explore my [repositories](https://github.com/Thisal-D?tab=repositories) and let's connect! 😊 ![](https://komarev.com/ghpvc/?username=Thisal-D)
