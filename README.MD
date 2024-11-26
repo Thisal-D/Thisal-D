@@ -39,4 +39,4 @@
 </a>
 
 
-### Feel free to explore my [repositories](https://github.com/Thisal-D?tab=repositories) and let's connect! 😊 ![](https://komarev.com/ghpvc/?username=Thisal-D)
+### Feel free to explore my [repositories](https://github.com/Thisal-D?tab=repositories) and let's connect! 😊
