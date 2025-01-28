@@ -34,7 +34,7 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=Thisal-D&theme=github_dark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
 
-[![](https://github-profile-trophy.vercel.app/?username=Thisal-D&theme=github_light&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![](https://github-profile-trophy.vercel.app/?username=Thisal-D&theme=github_light&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
 ### 🔗 Connect with Me
 
