@@ -29,6 +29,13 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_light&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
 
+
+### 🏆 GitHub Trophies
+
+[![](https://github-profile-trophy.vercel.app/?username=Thisal-D&theme=github_dark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+
+[![](https://github-profile-trophy.vercel.app/?username=Thisal-D&theme=github_light&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+
 ### 🔗 Connect with Me
 
 <a href="https://stackoverflow.com/users/17652621/thisal" target="blank">
