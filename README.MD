@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/Thisal-D">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Thisal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Thisal)](https://git.io/typing-svg)
 
 </a>
 <br/>
