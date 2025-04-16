@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/Thisal-D">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe UI&size=30&duration=3000&pause=100&multiline=true&width=500&height=80&lines=I'm+Thisal&height=40" alt="Typing SVG" /><br>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Thisal)](https://git.io/typing-svg)
 </a>
 <br/>
 
