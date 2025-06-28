@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/Thisal-D">
+<a href="https://github.com/thisal-d">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Thisal)](https://git.io/typing-svg)
 
@@ -12,10 +12,10 @@
 
 | Title                                                               | Description                                | Stars                                                                                                                      | Technologies                                                                                                                                 |
 |---------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| [PyTube Downloader](https://github.com/Thisal-D/PyTube-Downloader/) | UI application to download YouTube videos and playlists. | <img alt="Stars" src="https://img.shields.io/github/stars/Thisal-D/PyTube-Downloader?style=flat-square&labelColor=black"/> | <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
-| [tkchart](https://github.com/Thisal-D/tkchart/) | Python library for creating live updating line charts in Tkinter GUIs. | <img alt="Stars" src="https://img.shields.io/github/stars/Thisal-D/tkchart?style=flat-square&labelColor=black"/> |  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
-| [ctkchart](https://github.com/Thisal-D/ctkchart/) | Python library for creating live updating line charts in Customtkinter GUIs. | <img alt="Stars" src="https://img.shields.io/github/stars/Thisal-D/ctkchart?style=flat-square&labelColor=black"/> | <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
-| [IP Wizard](https://github.com/Thisal-D/ip-wizard/) | App for calculate subnet masks and IP ranges on your Android device. | <img alt="Stars" src="https://img.shields.io/github/stars/Thisal-D/ip-wizard?style=flat-square&labelColor=black"/> | <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="30px" height="30px"> |
+| [PyTube Downloader](https://github.com/thisal-d/pytube-downloader/) | UI application to download YouTube videos and playlists. | <img alt="Stars" src="https://img.shields.io/github/stars/thisal-d/pytube-downloader?style=flat-square&labelColor=black"/> | <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
+| [tkchart](https://github.com/thisal-d/tkchart/) | Python library for creating live updating line charts in Tkinter GUIs. | <img alt="Stars" src="https://img.shields.io/github/stars/thisal-d/tkchart?style=flat-square&labelColor=black"/> |  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
+| [ctkchart](https://github.com/thisal-d/ctkchart/) | Python library for creating live updating line charts in Customtkinter GUIs. | <img alt="Stars" src="https://img.shields.io/github/stars/thisal-d/ctkchart?style=flat-square&labelColor=black"/> | <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px" height="20px"> |
+| [IP Wizard](https://github.com/thisal-d/ip-wizard/) | App for calculate subnet masks and IP ranges on your Android device. | <img alt="Stars" src="https://img.shields.io/github/stars/thisal-d/ip-wizard?style=flat-square&labelColor=black"/> | <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="30px" height="30px"> |
 
 ### 🔧 Technologies & Tools
 
@@ -23,20 +23,20 @@
 
 ### 📈 GitHub Stats
 
-[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8&border_color=30363d)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisal-d&show_icons=true&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8&border_color=30363d)](https://github.com/thisal-d/github-readme-stats#gh-dark-mode-only)
 
-[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisal-D&show_icons=true&theme=github_light&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
+[![Thisal D's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisal-d&show_icons=true&theme=github_light&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/thisal-d/github-readme-stats#gh-light-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_dark&include_all_commits=true&count_private=false&layout=compact&border_color=30363d)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisal-d&theme=github_dark&include_all_commits=true&count_private=false&layout=compact&border_color=30363d)](https://github.com/thisal-d/github-readme-stats#gh-dark-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisal-D&theme=github_light&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisal-d&theme=github_light&include_all_commits=true&count_private=false&layout=compact)](https://github.com/thisal-d/github-readme-stats#gh-light-mode-only)
 
 
 ### 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=Thisal-D&theme=onestar&margin-w=15&margin-h=15)](https://github.com/Thisal-D/github-readme-stats#gh-dark-mode-only)
+[![](https://github-profile-trophy.vercel.app/?username=thisal-d&theme=onestar&margin-w=15&margin-h=15)](https://github.com/thisal-d/github-readme-stats#gh-dark-mode-only)
 
-[![](https://github-profile-trophy.vercel.app/?username=Thisal-D&theme=github_light&margin-w=15&margin-h=15)](https://github.com/Thisal-D/github-readme-stats#gh-light-mode-only)
+[![](https://github-profile-trophy.vercel.app/?username=thisal-d&theme=github_light&margin-w=15&margin-h=15)](https://github.com/thisal-d/github-readme-stats#gh-light-mode-only)
 
 ### 🔗 Connect with Me
 
@@ -48,4 +48,4 @@
 </a>
 
 
-### Feel free to explore my [repositories](https://github.com/Thisal-D?tab=repositories) and let's connect! 😊
+### Feel free to explore my [repositories](https://github.com/thisal-d?tab=repositories) and let's connect! 😊
